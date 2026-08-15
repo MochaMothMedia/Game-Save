@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-namespace FedoraDev.GameSave.Implementations
+namespace MochaMoth.GameSave.Implementations
 {
 	[InlineProperty]
 	public class DictionaryGameSave : IGameSave

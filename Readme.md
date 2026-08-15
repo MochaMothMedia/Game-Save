@@ -3,7 +3,7 @@
 An extendable save system for Unity.
 
 ## Installation
-Follow the steps [Here](https://github.com/FedoraDevStudios/Installation-Unity) to add this package to your Unity project using this package's URL.
+Follow the steps [Here](https://github.com/MochaMothStudios/Installation-Unity) to add this package to your Unity project using this package's URL.
 
 ##### Json.NET for Unity
 Next, you will need to add [Json.NET for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity). Add `https://github.com/jilleJr/Newtonsoft.Json-for-Unity` in the `Repository URL` box and hit `Find Versions`. Select the latest `upm` version, i.e. `10.0.302 - upm` and then `Install Package`.

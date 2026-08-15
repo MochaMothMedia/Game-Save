@@ -1,7 +1,7 @@
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace FedoraDev.GameSave.Implementations
+namespace MochaMoth.GameSave.Implementations
 {
     [HideMonoScript]
     public class GameSaveBehaviour : SerializedMonoBehaviour, IGameSave

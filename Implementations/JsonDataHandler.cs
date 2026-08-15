@@ -1,7 +1,7 @@
 using Newtonsoft.Json;
 using UnityEngine;
 
-namespace FedoraDev.GameSave.Implementations
+namespace MochaMoth.GameSave.Implementations
 {
 	public class JsonDataHandler : IDataHandler
 	{

@@ -2,7 +2,7 @@ using Sirenix.OdinInspector;
 using System.Text;
 using UnityEngine;
 
-namespace FedoraDev.GameSave.Implementations
+namespace MochaMoth.GameSave.Implementations
 {
 	public class PowerEncryption : IEncrypt
 	{

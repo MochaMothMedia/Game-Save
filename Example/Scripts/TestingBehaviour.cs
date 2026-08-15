@@ -1,7 +1,7 @@
 using Sirenix.OdinInspector;
 using UnityEngine;
 
-namespace FedoraDev.GameSave.Examples
+namespace MochaMoth.GameSave.Examples
 {
     public class TestingBehaviour : SerializedMonoBehaviour
     {

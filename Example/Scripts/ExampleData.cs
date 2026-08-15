@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace FedoraDev.GameSave.Examples
+namespace MochaMoth.GameSave.Examples
 {
 	[Serializable]
 	public class ExampleData : IGameData

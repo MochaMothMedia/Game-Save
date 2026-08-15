@@ -1,6 +1,6 @@
 {
-    "name": "_FedoraDev.GameSave.Implementations",
-    "rootNamespace": "",
+    "name": "_MochaMoth.GameSave.Examples",
+    "rootNamespace": "MochaMoth.GameSave.Examples",
     "references": [
         "GUID:c08a40b6ee99a594c826ddf81999fda1"
     ],

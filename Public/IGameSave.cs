@@ -1,4 +1,4 @@
-namespace FedoraDev.GameSave
+namespace MochaMoth.GameSave
 {
     public interface IGameSave
     {

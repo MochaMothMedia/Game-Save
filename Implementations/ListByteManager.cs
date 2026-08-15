@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace FedoraDev.GameSave.Implementations
+namespace MochaMoth.GameSave.Implementations
 {
 	public class ListByteManager : IByteManager
 	{

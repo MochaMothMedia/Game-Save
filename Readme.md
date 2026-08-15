@@ -5,9 +5,6 @@ An extendable save system for Unity.
 ## Installation
 Follow the steps [Here](https://github.com/MochaMothStudios/Installation-Unity) to add this package to your Unity project using this package's URL.
 
-##### Json.NET for Unity
-Next, you will need to add [Json.NET for Unity](https://github.com/jilleJr/Newtonsoft.Json-for-Unity). Add `https://github.com/jilleJr/Newtonsoft.Json-for-Unity` in the `Repository URL` box and hit `Find Versions`. Select the latest `upm` version, i.e. `10.0.302 - upm` and then `Install Package`.
-
 ## Usage
 ### Add to Scene
 For the easiest use, add a `GameSaveBehaviour` component to a game object in the scene. Then, select `DictionaryGameSave` in the drop down on the component. Next, select the `JsonDataHandler` in the `Data Handler` drop down. This can be changed later if you create your own handler. Finally, you can start adding entries in the `Game Data` dropdown. At first, you won't have anything to add until you create your own `IGameData` instances.
